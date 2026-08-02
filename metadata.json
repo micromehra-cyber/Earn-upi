@@ -1,0 +1,6 @@
+{
+  "name": "EarnUPI - Ad Rewards & UPI Payouts",
+  "description": "Watch ads, complete video offers, scratch cards & daily tasks to earn coins and withdraw real cash via instant UPI payouts in India (Min ₹1 to Max ₹1,00,000 daily).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
